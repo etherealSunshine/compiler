@@ -24,14 +24,14 @@ class interpreter:
                 else:
                     print(e,end="")    
 code=[
-    ["Print","Hello World!","Sky is blue"],
+    ["Print","Hello World!","Yooo"],
     ["Print",1,","],
     ["Print",2,","],
     ["Print",3],
     ["Print","a"],
     ["Print","b"],
     ["Print"],
-    ["Print","c"],
+    ["Hello shift if ur reading this ;)"],
 ]
 
 interpreter=Interpreter()
