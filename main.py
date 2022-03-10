@@ -42,6 +42,8 @@ class Interpreter:
         return self.eval(xs[1]) % self.eval(xs[2])
     def Pow(self,xs):
         return self.eval(xs[1])**self.eval(xs[2])
+    def DeezNuts(self,xs);
+        return "DEEZ NUTS HAHAHAAHHAHAHAHAHAHA"
 
 code=[
 
